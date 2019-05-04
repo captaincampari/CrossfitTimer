@@ -1,2 +1,0 @@
-# CrossfitTimer
-Created with CodeSandbox
