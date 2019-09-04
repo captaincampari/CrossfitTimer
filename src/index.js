@@ -8,7 +8,7 @@ function f() {
 }
 
 function handleStop() {
-  console.log("stopped");
+  console.log("stopped, yeah");
   debugger;
   clearInterval(intervalId);
 }
